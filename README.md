@@ -2,7 +2,7 @@
 
 A beginner-friendly machine learning project that predicts medical insurance charges using customer demographic and lifestyle features.
 
-**Student:** Nadeem Khan  
+**Student:** Nadeem Ahmad  
 **Project Type:** Supervised Machine Learning – Regression  
 
 ---
